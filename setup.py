@@ -6,7 +6,7 @@ setup(
     packages=[
         'gdax_client',
     ],
-    url='https://github.com/captain13128/chief-keeper',
+    url='https://github.com/captain13128/gdax-client',
     license='',
     author='',
     author_email='',
